@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="metaMaskUrl" value="moz-extension://cf97d3de-12ef-4670-91e7-65be9a37e5bb/home.html#initialize/welcome"/>
+    <parameter name="browser" value="chrome"/>
+    <parameter name="AppUrl" value="https://boloro-frontend-dev.devtomaster.com/"/>
+    <classes>
+      <class name="testCases.AuctionAsset">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="beforeMethod"/>
+          <include name="f" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- testCases.AuctionAsset -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

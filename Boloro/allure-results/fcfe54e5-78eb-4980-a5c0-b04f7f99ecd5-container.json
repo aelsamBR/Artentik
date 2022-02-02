@@ -1,0 +1,1 @@
+{"uuid":"fcfe54e5-78eb-4980-a5c0-b04f7f99ecd5","name":"testCases.AuctionAsset","children":["7a94c803-9c9c-4d84-80b6-bd84446a2332"],"befores":[{"name":"beforeTest","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1643708454703,"stop":1643708483598}],"afters":[],"start":1643708454670,"stop":1643708529035}
